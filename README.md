@@ -1,7 +1,7 @@
 # Perk-Projects-in-python
 A curated set of Python projects exploring fundamental programming logic and structure. This repository will expand with future additions.
 
-# 🐍 Python Mini Projects Collection
+#  Python Mini Projects Collection
 
 This repository contains a collection of beginner-to-intermediate Python projects demonstrating real-world applications using various libraries and concepts. Each project is self-contained and well-documented for easy understanding and reuse.
 
@@ -65,7 +65,7 @@ A desktop weather app that fetches current weather using city names via the Open
   pip install requests geopy
 ```
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
   Python 3.7+
 
   tkinter
