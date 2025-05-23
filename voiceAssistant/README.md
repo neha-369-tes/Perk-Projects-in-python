@@ -36,9 +36,9 @@ Python 3.x
 
 Libraries: speech_recognition, pyttsx3
 
-Install dependencies:
+### Install dependencies:
 
-pip install SpeechRecognition pyttsx3
+-- pip install SpeechRecognition pyttsx3
 
 ## 📌 Note
 
