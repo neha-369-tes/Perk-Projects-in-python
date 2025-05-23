@@ -1,4 +1,4 @@
-#Python Voice Assistant
+# Python Voice Assistant
 
 A simple voice-controlled assistant built with Python. This project utilizes the following libraries:
 
@@ -8,7 +8,7 @@ pyttsx3
 
 webbrowser
 
-##🔧 Features
+## 🔧 Features
 
 Greets the user
 
@@ -18,7 +18,7 @@ Searches Google based on voice input
 
 Exits on command
 
-🚀 How It Works
+## 🚀 How It Works
 
 The assistant continuously listens for your voice. Based on recognized commands, it will respond or take action accordingly. For example:
 
@@ -30,7 +30,7 @@ Say "search" followed by a query to search Google
 
 Say "exit" or "bye" to end the assistant
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.x
 
@@ -40,13 +40,13 @@ Install dependencies:
 
 pip install SpeechRecognition pyttsx3
 
-📌 Note
+## 📌 Note
 
 An internet connection is required for speech recognition.
 
 Make sure your microphone is working.
 
-💡 Future Improvements
+## 💡 Future Improvements
 
 Add support for more commands
 
