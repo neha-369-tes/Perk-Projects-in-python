@@ -75,3 +75,68 @@ A desktop weather app that fetches current weather using city names via the Open
   geopy
 
   Standard libraries: random, string, math
+
+## 4. Client-Server Chat Application
+A simple multi-client chat server and client built using Python's socket and threading libraries.
+
+**Features:**
+
+  -Server handles multiple clients simultaneously
+
+  -Broadcasts messages to all connected clients except the sender
+
+  -Clients can send and receive messages asynchronously
+
+  -Clean connection handling and exit option
+
+**Run Server:**
+
+  ```bash
+
+  python server.py
+```
+**Run Client:**
+
+  ```bash
+
+  python client.py
+```
+**Details:**
+
+  -Server listens on all interfaces on port 12345
+
+  -Client connects to 127.0.0.1 on port 12345
+
+  -Type exit in client to disconnect
+
+**Requirements**
+
+  Standard Python libraries: socket, threading
+
+## 5. Voice Assistant
+
+A simple voice assistant that recognizes spoken commands and responds with speech using `speech_recognition` and `pyttsx3`. It can tell time, date, search Google, and respond to greetings.
+
+### Features
+
+- Speech-to-text recognition with error handling  
+- Text-to-speech responses  
+- Basic commands: greetings, time, date, Google search, and exit  
+- Opens web browser for search queries  
+
+### Run
+
+```bash
+python voice_assistant.py
+```
+Requirements
+```bash
+
+  pip install SpeechRecognition pyttsx3
+```
+**Additional dependencies**
+  Microphone (hardware)
+  Internet connection (for speech recognition API)
+
+
+
