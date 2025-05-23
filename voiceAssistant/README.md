@@ -1,4 +1,4 @@
-Python Voice Assistant
+#Python Voice Assistant
 
 A simple voice-controlled assistant built with Python. This project utilizes the following libraries:
 
@@ -8,7 +8,7 @@ pyttsx3
 
 webbrowser
 
-🔧 Features
+##🔧 Features
 
 Greets the user
 
