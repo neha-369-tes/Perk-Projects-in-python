@@ -24,7 +24,7 @@ This is a simple yet effective desktop GUI application that shows current weathe
    ```bash
    python weather_app.py
 Enter any city name (e.g., "chennai", "Banglore") and click Get Weather.
-##⚙️ Tech Stack
+## ⚙️ Tech Stack
   Python
 
   Tkinter
